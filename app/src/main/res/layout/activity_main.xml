@@ -12,7 +12,9 @@
     <Button
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:text="@string/button_1"></Button>
+        android:text="@string/button_1">
+
+    </Button>
 
     <EditText
         android:layout_width="match_parent"

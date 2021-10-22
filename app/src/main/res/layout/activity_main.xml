@@ -16,10 +16,10 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:minHeight="48dp"
-        tools:ignore="SpeakableTextPresentCheck"
+        android:importantForAutofill="auto"
         android:inputType="text"
-        android:importantForAutofill="no">
+        android:minHeight="48dp"
+        android:autofillHints="">
 
     </EditText>
 

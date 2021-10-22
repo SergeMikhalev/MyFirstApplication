@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
+    android:layout_width="wrap_content"
     android:layout_height="match_parent">
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_1">
-    </Button>
+        android:text="@string/button_1" />
 
     <Button
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:text="@string/button_1">
+        android:text="@string/button_2">
 
     </Button>
 
     <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_width="192dp"
+        android:layout_height="wrap_content"
+        android:autofillHints="купи себе еще этих мягких французских булочек и выпкей чаю">
 
     </EditText>
 

@@ -5,5 +5,7 @@
     <string name="button">Кнопоид</string>
     <string name="textview">шапка</string>
     <string name="textview1">подвал</string>
+    <string name="hello_text">Hello I am from Siberia</string>
+    <string name="random">random</string>
 
 </resources>

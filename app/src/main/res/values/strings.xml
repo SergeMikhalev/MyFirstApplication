@@ -2,5 +2,8 @@
     <string name="app_name">My First Appl</string>
     <string name="button_1">Кнопка</string>
     <string name="button_2">Кнопоид</string>
+    <string name="button">Кнопоид</string>
+    <string name="textview">шапка</string>
+    <string name="textview1">подвал</string>
 
 </resources>
